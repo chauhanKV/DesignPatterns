@@ -1,0 +1,12 @@
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.csprojAssemblyReference.cache
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+D:\Tutorials\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.pdb
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.csprojAssemblyReference.cache
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\obj\Debug\MediatorPattern.pdb
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+D:\Study Stuff\Design Patterns\Mediator Pattern\MediatorPattern\bin\Debug\MediatorPattern.pdb

@@ -1,0 +1,6 @@
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\bin\Debug\FacadePattern.exe.config
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\bin\Debug\FacadePattern.exe
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\bin\Debug\FacadePattern.pdb
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\obj\Debug\FacadePattern.csprojAssemblyReference.cache
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\obj\Debug\FacadePattern.exe
+D:\Study Stuff\Design Patterns\Structural Design Patterns\FacadePattern\obj\Debug\FacadePattern.pdb

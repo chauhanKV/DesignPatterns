@@ -1,0 +1,6 @@
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.exe.config
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.exe
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\bin\Debug\Iterator Pattern.pdb
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.csprojAssemblyReference.cache
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.exe
+D:\Tutorials\Design Patterns\Iterator Pattern\Iterator Pattern\obj\Debug\Iterator Pattern.pdb

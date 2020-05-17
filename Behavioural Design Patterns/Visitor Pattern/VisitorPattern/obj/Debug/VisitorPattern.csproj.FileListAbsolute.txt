@@ -1,0 +1,6 @@
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\bin\Debug\VisitorPattern.exe
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\obj\Debug\VisitorPattern.csprojAssemblyReference.cache
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\obj\Debug\VisitorPattern.exe
+D:\Study Stuff\Design Patterns\Visitor Pattern\VisitorPattern\obj\Debug\VisitorPattern.pdb

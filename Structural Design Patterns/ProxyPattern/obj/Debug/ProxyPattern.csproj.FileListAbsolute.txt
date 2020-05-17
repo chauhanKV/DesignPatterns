@@ -1,0 +1,6 @@
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\Study Stuff\Design Patterns\Structural Design Patterns\ProxyPattern\obj\Debug\ProxyPattern.pdb
